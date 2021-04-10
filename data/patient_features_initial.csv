@@ -1,0 +1,301 @@
+id,race,gender,age,initial_creatinine,initial_eGFR,initial_stage,initial_sbp,initial_dbp,initial_bp_stage,initial_ldl,initial_cholesterol_stage,initial_glucose,initial_diabetes_stage,initial_hgb,cholesterol_drug,diabetes_drug,hbp_lol_drug,hbp_tan_drug,Stage_Progress
+0,Unknown,Male,70,1.29,55.1,3a,134.11,95.32,Hypertension 1,161.49,High,6.24,Healthy,13.51,0.0,0.0,0.0,0.0,True
+1,White,Female,71,1.74,28.8,4,157.46,72.49,Hypertension 2,89.57,Optimal,9.96,Diabetes,13.89,0.0,0.0,0.0,0.0,False
+2,White,Female,57,2.51,19.8,4,132.89,81.13,Hypertension 1,61.62,Optimal,7.24,Diabetes,15.34,0.0,0.0,0.0,0.0,True
+3,White,Male,74,0.74,103.4,1,147.46,80.09,Hypertension 1,99.71,Optimal,6.43,Healthy,13.74,0.0,0.0,0.0,0.0,False
+4,White,Female,50,1.34,41.9,3b,128.78,82.23,Hypertension 1,65.73,Optimal,8.76,Diabetes,13.21,1.0,0.0,0.0,0.0,True
+5,Black,Male,73,1.52,54.8,3a,129.89,81.63,Hypertension 1,57.32,Optimal,5.97,Healthy,12.03,0.0,0.0,1.0,0.0,False
+6,White,Female,60,1.84,28.0,4,131.39,73.87,Hypertension 1,51.85,Optimal,7.51,Diabetes,13.58,0.0,0.0,0.0,0.0,False
+7,Asian,Female,62,1.43,37.2,3b,125.54,88.53,Hypertension 1,159.28,Borderline High,5.36,Healthy,15.66,0.0,0.0,0.0,1.0,False
+8,White,Female,68,1.98,25.1,4,131.22,68.75,Hypertension 1,112.7,Near/Above Optimal,5.54,Healthy,15.62,0.0,0.0,0.0,0.0,True
+9,White,Female,80,1.79,27.2,4,145.71,67.31,Hypertension 2,89.87,Optimal,6.85,Healthy,14.58,0.0,0.0,0.0,0.0,False
+10,White,Male,66,1.28,56.2,3a,134.27,87.64,Hypertension 1,101.9,Near/Above Optimal,7.76,Diabetes,12.5,0.0,0.0,0.0,0.0,True
+11,White,Female,71,0.85,65.9,2,132.62,87.11,Hypertension 1,26.1,Optimal,11.23,Diabetes,16.7,0.0,0.0,0.0,0.0,True
+12,White,Female,80,1.66,29.7,4,122.02,76.82,Elevated,72.76,Optimal,7.89,Diabetes,15.95,0.0,0.0,0.0,0.0,False
+13,White,Female,67,1.44,36.3,3b,159.36,85.33,Hypertension 1,84.74,Optimal,8.39,Diabetes,13.96,0.0,0.0,0.0,0.0,False
+14,White,Female,81,1.6,30.9,3b,152.77,77.53,Hypertension 2,55.9,Optimal,10.98,Diabetes,14.42,0.0,0.0,0.0,0.0,False
+15,White,Male,84,0.98,72.9,2,115.63,64.09,Normal BP,61.28,Optimal,5.86,Healthy,14.76,0.0,0.0,0.0,0.0,True
+16,White,Female,80,1.69,29.1,4,131.82,65.37,Hypertension 1,69.68,Optimal,7.43,Diabetes,13.96,1.0,0.0,0.0,0.0,False
+17,Black,Female,79,1.71,34.9,3b,119.57,82.26,Hypertension 1,66.93,Optimal,5.4,Healthy,11.78,0.0,0.0,0.0,0.0,True
+18,White,Female,67,1.02,54.1,3a,148.81,86.71,Hypertension 1,95.97,Optimal,8.11,Diabetes,11.44,0.0,0.0,0.0,0.0,True
+19,White,Male,64,1.03,72.7,2,151.57,73.23,Hypertension 2,36.99,Optimal,6.8,Healthy,12.59,0.0,0.0,0.0,0.0,True
+20,Hispanic,Female,76,1.31,39.5,3b,133.43,74.16,Hypertension 1,69.18,Optimal,5.58,Healthy,14.65,0.0,1.0,0.0,0.0,False
+21,White,Female,64,1.09,50.5,3a,140.2,74.12,Hypertension 2,96.19,Optimal,6.57,Healthy,14.67,0.0,0.0,0.0,0.0,False
+22,White,Male,70,1.31,54.1,3a,125.6,96.59,Hypertension 2,83.25,Optimal,4.79,Healthy,16.3,0.0,0.0,0.0,0.0,False
+23,White,Female,66,1.23,43.7,3b,176.95,112.93,Hypertension 2,40.87,Optimal,8.45,Diabetes,15.96,0.0,0.0,0.0,0.0,False
+24,White,Male,73,0.98,75.0,2,147.52,85.14,Hypertension 1,95.43,Optimal,7.9,Diabetes,11.62,0.0,0.0,0.0,0.0,False
+25,White,Female,63,0.86,66.6,2,144.88,86.92,Hypertension 1,59.59,Optimal,11.55,Diabetes,15.31,1.0,0.0,0.0,0.0,True
+26,White,Female,46,1.36,41.9,3b,126.81,81.58,Hypertension 1,92.12,Optimal,6.29,Healthy,16.89,0.0,0.0,0.0,0.0,False
+27,White,Male,78,1.48,46.0,3a,108.6,59.38,Normal BP,88.93,Optimal,5.17,Healthy,10.52,0.0,0.0,1.0,0.0,True
+28,White,Male,81,1.53,43.9,3b,175.89,86.85,Hypertension 1,105.14,Near/Above Optimal,8.57,Diabetes,11.37,0.0,0.0,0.0,0.0,False
+29,Hispanic,Female,73,1.27,41.2,3b,128.19,77.77,Elevated,102.55,Near/Above Optimal,5.35,Healthy,13.61,0.0,0.0,0.0,0.0,False
+30,Unknown,Female,84,1.73,28.1,4,106.24,56.42,Normal BP,117.58,Near/Above Optimal,6.83,Healthy,13.84,0.0,0.0,0.0,0.0,True
+31,White,Female,64,1.14,48.0,3a,131.19,78.64,Hypertension 1,127.57,Near/Above Optimal,8.79,Diabetes,14.57,0.0,0.0,0.0,0.0,True
+32,Black,Male,71,1.19,73.0,2,108.67,85.16,Hypertension 1,76.87,Optimal,5.16,Healthy,12.18,0.0,0.0,0.0,0.0,True
+33,White,Female,80,0.99,54.0,3a,141.79,81.69,Hypertension 1,117.77,Near/Above Optimal,6.11,Healthy,17.08,0.0,0.0,0.0,0.0,True
+34,White,Female,85,1.45,34.3,3b,124.79,75.79,Elevated,46.06,Optimal,6.85,Healthy,11.35,2.0,0.0,0.0,0.0,False
+35,White,Female,74,1.27,41.1,3b,151.46,95.03,Hypertension 2,137.58,Borderline High,6.82,Healthy,15.01,0.0,0.0,0.0,0.0,False
+36,White,Male,75,1.63,41.5,3b,158.21,65.04,Hypertension 2,68.14,Optimal,5.16,Healthy,11.66,0.0,0.0,0.0,0.0,False
+37,White,Female,74,0.9,61.2,2,140.27,74.4,Hypertension 2,83.96,Optimal,7.63,Diabetes,15.13,0.0,0.0,0.0,0.0,False
+38,Asian,Female,59,1.26,43.5,3b,126.7,69.65,Elevated,167.75,High,6.97,Healthy,15.75,0.0,0.0,0.0,0.0,False
+39,Black,Male,58,1.27,70.6,2,113.33,82.26,Hypertension 1,114.43,Near/Above Optimal,5.07,Healthy,13.75,0.0,0.0,0.0,0.0,True
+40,White,Female,55,1.44,37.8,3b,115.6,72.98,Normal BP,98.49,Optimal,9.88,Diabetes,14.45,0.0,0.0,0.0,0.0,False
+41,White,Female,71,1.2,44.3,3b,152.28,84.87,Hypertension 1,64.5,Optimal,8.39,Diabetes,15.81,1.0,0.0,0.0,0.0,False
+42,White,Male,74,0.97,75.7,2,127.99,82.76,Hypertension 1,63.17,Optimal,7.43,Diabetes,12.32,0.0,0.0,0.0,0.0,True
+43,White,Female,69,1.09,49.8,3a,109.52,73.66,Normal BP,65.35,Optimal,6.57,Healthy,13.68,0.0,0.0,0.0,0.0,True
+44,White,Female,76,1.56,32.3,3b,148.63,75.43,Hypertension 2,68.74,Optimal,5.66,Healthy,14.54,0.0,0.0,0.0,0.0,True
+45,Asian,Female,70,1.15,46.6,3a,149.06,76.91,Hypertension 2,56.45,Optimal,6.09,Healthy,14.96,0.0,0.0,0.0,0.0,True
+46,Black,Female,55,0.61,123.4,1,113.06,62.95,Normal BP,91.66,Optimal,5.4,Healthy,13.88,0.0,0.0,0.0,0.0,False
+47,White,Male,76,1.36,50.9,3a,147.64,80.79,Hypertension 1,42.03,Optimal,5.43,Healthy,12.3,0.0,0.0,0.0,0.0,False
+48,White,Female,77,1.33,38.7,3b,124.84,79.73,Elevated,42.68,Optimal,6.39,Healthy,13.79,0.0,0.0,0.0,0.0,True
+49,White,Male,66,0.83,92.7,1,107.9,63.65,Normal BP,65.68,Optimal,4.93,Healthy,13.06,0.0,0.0,0.0,0.0,False
+50,White,Male,73,1.83,36.5,3b,123.3,61.31,Elevated,99.76,Optimal,7.85,Diabetes,11.75,0.0,0.0,0.0,0.0,True
+51,Black,Female,79,1.12,56.9,3a,122.54,76.7,Elevated,135.31,Borderline High,6.34,Healthy,14.62,0.0,0.0,0.0,0.0,False
+52,White,Female,60,0.87,66.4,2,122.34,89.77,Hypertension 1,80.95,Optimal,7.91,Diabetes,15.27,1.0,1.0,0.0,0.0,False
+53,White,Male,79,1.43,47.7,3a,129.02,90.75,Hypertension 2,137.33,Borderline High,7.17,Diabetes,13.12,1.0,1.0,1.0,0.0,False
+54,White,Male,80,1.14,61.8,2,122.56,72.46,Elevated,78.13,Optimal,6.31,Healthy,14.96,0.0,0.0,0.0,0.0,False
+55,White,Male,46,1.88,38.8,3b,150.8,108.29,Hypertension 2,88.58,Optimal,7.11,Diabetes,12.58,0.0,0.0,0.0,0.0,False
+56,White,Female,69,1.19,45.0,3a,173.56,89.11,Hypertension 1,93.88,Optimal,6.7,Healthy,14.86,0.0,0.0,0.0,0.0,False
+57,White,Male,67,0.67,118.3,1,126.53,79.16,Elevated,125.06,Near/Above Optimal,7.1,Diabetes,15.1,0.0,0.0,0.0,0.0,True
+58,White,Male,79,0.81,91.9,1,133.34,74.32,Hypertension 1,52.06,Optimal,5.11,Healthy,11.99,1.0,0.0,0.0,1.0,True
+59,White,Male,59,1.32,55.5,3a,153.53,76.33,Hypertension 2,92.25,Optimal,5.7,Healthy,9.25,0.0,0.0,0.0,0.0,False
+60,White,Male,73,0.9,82.7,2,129.02,77.81,Elevated,141.16,Borderline High,5.53,Healthy,14.31,0.0,0.0,0.0,0.0,False
+61,Unknown,Female,62,0.96,58.9,3a,128.08,84.93,Hypertension 1,123.57,Near/Above Optimal,5.85,Healthy,16.33,0.0,0.0,0.0,0.0,False
+62,White,Male,82,0.84,87.5,2,142.7,71.23,Hypertension 2,102.67,Near/Above Optimal,5.38,Healthy,12.92,0.0,0.0,0.0,0.0,False
+63,White,Female,57,1.18,47.2,3a,153.89,100.44,Hypertension 2,95.0,Optimal,5.31,Healthy,16.15,0.0,0.0,0.0,0.0,False
+64,White,Male,82,1.22,56.9,3a,154.42,77.57,Hypertension 2,87.12,Optimal,6.86,Healthy,14.11,0.0,0.0,0.0,0.0,False
+65,White,Female,54,0.85,69.7,2,147.2,101.92,Hypertension 2,81.05,Optimal,8.92,Diabetes,18.09,0.0,1.0,0.0,0.0,True
+66,White,Male,79,1.65,40.4,3b,134.14,68.26,Hypertension 1,30.5,Optimal,8.1,Diabetes,15.73,0.0,0.0,0.0,0.0,False
+67,White,Female,72,1.48,34.7,3b,130.54,69.55,Hypertension 1,75.07,Optimal,8.11,Diabetes,14.95,0.0,0.0,0.0,0.0,False
+68,White,Female,50,0.84,71.8,2,129.05,86.86,Hypertension 1,64.26,Optimal,9.51,Diabetes,15.81,0.0,0.0,0.0,0.0,False
+69,Unknown,Female,78,1.08,49.1,3a,143.99,93.43,Hypertension 2,79.35,Optimal,8.28,Diabetes,14.18,0.0,0.0,0.0,0.0,False
+70,White,Male,79,1.71,38.8,3b,158.14,72.34,Hypertension 2,50.21,Optimal,5.28,Healthy,12.06,0.0,0.0,1.0,0.0,True
+71,White,Female,84,1.5,33.1,3b,136.56,87.41,Hypertension 1,54.0,Optimal,9.36,Diabetes,15.18,0.0,0.0,0.0,0.0,False
+72,White,Male,81,1.49,45.3,3a,132.36,71.81,Hypertension 1,40.85,Optimal,5.29,Healthy,11.49,0.0,0.0,0.0,0.0,True
+73,White,Female,61,1.48,35.9,3b,133.74,80.48,Hypertension 1,95.01,Optimal,8.42,Diabetes,15.56,0.0,0.0,0.0,0.0,False
+74,Asian,Female,68,1.25,42.6,3b,160.84,64.32,Hypertension 2,64.7,Optimal,6.36,Healthy,15.6,0.0,0.0,0.0,0.0,True
+75,White,Female,84,2.63,17.3,4,110.99,52.29,Normal BP,70.17,Optimal,5.26,Healthy,12.06,0.0,0.0,0.0,0.0,False
+76,Hispanic,Female,71,1.48,34.8,3b,142.05,89.21,Hypertension 1,112.64,Near/Above Optimal,6.86,Healthy,16.5,0.0,0.0,0.0,0.0,False
+77,Unknown,Female,81,1.32,38.6,3b,143.85,87.07,Hypertension 1,111.47,Near/Above Optimal,5.32,Healthy,16.24,0.0,0.0,0.0,0.0,False
+78,White,Male,82,1.29,53.3,3a,135.77,77.86,Hypertension 1,127.56,Near/Above Optimal,7.61,Diabetes,15.36,0.0,0.0,0.0,0.0,False
+79,White,Male,76,1.14,62.5,2,125.84,69.11,Elevated,80.25,Optimal,8.55,Diabetes,13.52,0.0,0.0,0.0,1.0,False
+80,White,Female,77,1.15,45.8,3a,134.49,71.07,Hypertension 1,78.89,Optimal,8.8,Diabetes,13.82,1.0,0.0,1.0,0.0,False
+81,White,Male,63,1.03,72.9,2,144.02,94.78,Hypertension 2,79.04,Optimal,6.92,Healthy,14.5,1.0,1.0,1.0,0.0,True
+82,White,Male,83,1.25,55.2,3a,133.48,77.28,Hypertension 1,65.04,Optimal,9.4,Diabetes,14.26,0.0,0.0,0.0,0.0,False
+83,White,Male,49,1.21,63.7,2,139.03,85.44,Hypertension 1,108.1,Near/Above Optimal,9.64,Diabetes,15.07,0.0,0.0,0.0,0.0,False
+84,Unknown,Female,65,1.6,32.3,3b,136.15,65.42,Hypertension 1,86.72,Optimal,7.6,Diabetes,14.3,0.0,0.0,0.0,0.0,False
+85,Hispanic,Male,58,0.96,80.4,2,116.68,86.72,Hypertension 1,111.85,Near/Above Optimal,5.87,Healthy,13.76,0.0,0.0,0.0,0.0,True
+86,White,Male,48,0.87,93.7,1,142.77,88.32,Hypertension 1,98.47,Optimal,6.25,Healthy,15.19,0.0,0.0,0.0,0.0,True
+87,White,Female,84,1.29,39.4,3b,145.99,70.42,Hypertension 2,135.16,Borderline High,3.97,Healthy,13.47,0.0,0.0,0.0,0.0,True
+88,Unknown,Male,66,1.3,55.2,3a,125.08,58.52,Elevated,63.16,Optimal,5.36,Healthy,13.6,0.0,0.0,0.0,0.0,True
+89,White,Female,77,1.02,52.5,3a,116.15,84.27,Hypertension 1,67.38,Optimal,6.16,Healthy,14.82,0.0,0.0,0.0,0.0,True
+90,White,Male,80,1.12,63.1,2,129.26,81.82,Hypertension 1,142.47,Borderline High,7.8,Diabetes,15.63,1.0,0.0,0.0,0.0,False
+91,White,Female,61,1.81,28.4,4,130.52,61.09,Hypertension 1,87.62,Optimal,6.92,Healthy,13.02,0.0,0.0,0.0,0.0,False
+92,White,Female,67,1.69,30.2,3b,158.68,82.93,Hypertension 1,48.74,Optimal,12.55,Diabetes,14.85,1.0,1.0,0.0,1.0,False
+93,White,Male,74,1.33,52.6,3a,114.49,73.71,Normal BP,111.27,Near/Above Optimal,5.35,Healthy,13.89,0.0,0.0,0.0,0.0,False
+94,Unknown,Female,69,1.06,51.4,3a,129.22,87.13,Hypertension 1,106.54,Near/Above Optimal,6.99,Healthy,15.6,0.0,0.0,0.0,0.0,False
+95,White,Female,65,1.0,55.6,3a,135.96,92.76,Hypertension 1,86.72,Optimal,5.97,Healthy,16.2,0.0,0.0,0.0,0.0,False
+96,Unknown,Female,71,1.21,43.9,3b,120.38,77.83,Elevated,77.04,Optimal,6.46,Healthy,17.31,0.0,0.0,0.0,0.0,False
+97,White,Male,59,1.07,70.7,2,132.92,91.95,Hypertension 1,59.66,Optimal,8.63,Diabetes,13.86,0.0,0.0,0.0,0.0,True
+98,White,Female,75,1.37,37.6,3b,144.6,80.59,Hypertension 1,115.83,Near/Above Optimal,6.98,Healthy,14.52,0.0,0.0,0.0,0.0,False
+99,Black,Female,73,1.23,51.9,3a,146.28,95.74,Hypertension 2,159.76,Borderline High,6.29,Healthy,14.81,0.0,0.0,0.0,0.0,False
+100,White,Female,68,1.37,38.3,3b,120.69,93.88,Hypertension 2,91.52,Optimal,8.03,Diabetes,14.69,0.0,0.0,0.0,0.0,False
+101,White,Female,65,1.19,45.5,3a,136.98,85.29,Hypertension 1,130.64,Borderline High,8.41,Diabetes,14.34,0.0,0.0,0.0,0.0,True
+102,White,Female,85,1.41,35.4,3b,122.04,72.77,Elevated,83.08,Optimal,6.71,Healthy,15.09,1.0,0.0,0.0,0.0,False
+103,White,Female,84,1.98,24.0,4,102.57,63.89,Normal BP,96.22,Optimal,5.67,Healthy,13.37,0.0,0.0,0.0,0.0,True
+104,White,Male,57,0.92,84.8,2,144.24,103.84,Hypertension 2,90.05,Optimal,6.27,Healthy,13.35,0.0,0.0,0.0,0.0,True
+105,White,Male,68,1.29,55.4,3a,155.7,97.66,Hypertension 2,121.56,Near/Above Optimal,6.02,Healthy,14.96,0.0,0.0,0.0,0.0,False
+106,Asian,Male,52,1.14,67.5,2,114.94,80.71,Hypertension 1,67.26,Optimal,5.43,Healthy,10.46,0.0,0.0,0.0,0.0,True
+107,Black,Male,78,1.22,69.6,2,141.65,89.03,Hypertension 1,84.82,Optimal,7.53,Diabetes,10.73,0.0,1.0,1.0,0.0,False
+108,Black,Male,82,1.4,58.8,3a,138.82,87.06,Hypertension 1,68.78,Optimal,6.26,Healthy,13.28,0.0,0.0,0.0,0.0,False
+109,White,Female,68,2.09,23.6,4,139.55,83.74,Hypertension 1,107.6,Near/Above Optimal,6.25,Healthy,16.46,0.0,0.0,0.0,0.0,True
+110,Unknown,Male,85,1.56,42.5,3b,143.93,61.36,Hypertension 2,76.89,Optimal,6.91,Healthy,11.93,0.0,0.0,1.0,0.0,True
+111,Asian,Female,64,2.98,15.8,4,131.77,86.11,Hypertension 1,61.45,Optimal,7.55,Diabetes,13.06,0.0,0.0,0.0,0.0,False
+112,Unknown,Female,60,1.01,55.9,3a,121.65,77.4,Elevated,136.35,Borderline High,6.17,Healthy,16.72,0.0,0.0,0.0,0.0,False
+113,White,Male,80,1.4,48.8,3a,138.79,89.49,Hypertension 1,101.33,Near/Above Optimal,6.65,Healthy,15.89,0.0,0.0,0.0,0.0,True
+114,White,Female,58,1.45,37.1,3b,130.36,66.28,Hypertension 1,104.0,Near/Above Optimal,6.81,Healthy,15.98,0.0,0.0,0.0,0.0,False
+115,Unknown,Female,77,1.85,26.4,4,132.21,60.51,Hypertension 1,159.95,Borderline High,8.28,Diabetes,13.86,0.0,0.0,0.0,0.0,False
+116,White,Female,59,1.2,46.0,3a,141.49,98.81,Hypertension 2,82.63,Optimal,5.96,Healthy,14.57,0.0,0.0,0.0,0.0,False
+117,White,Female,73,1.78,27.9,4,138.16,79.06,Hypertension 1,63.51,Optimal,6.63,Healthy,16.34,0.0,0.0,0.0,0.0,True
+118,Hispanic,Female,61,1.41,37.9,3b,130.83,80.94,Hypertension 1,82.88,Optimal,5.31,Healthy,16.01,0.0,0.0,0.0,0.0,True
+119,White,Female,77,1.91,25.5,4,132.07,78.53,Hypertension 1,41.75,Optimal,6.35,Healthy,12.97,0.0,0.0,0.0,0.0,True
+120,White,Female,72,1.12,47.8,3a,160.18,72.89,Hypertension 2,123.35,Near/Above Optimal,7.15,Diabetes,15.01,0.0,0.0,0.0,0.0,False
+121,White,Male,76,0.93,79.0,2,134.05,76.39,Hypertension 1,56.71,Optimal,8.72,Diabetes,11.66,0.0,0.0,0.0,0.0,False
+122,White,Female,66,0.94,59.6,3a,143.25,89.22,Hypertension 1,56.71,Optimal,6.13,Healthy,15.89,0.0,0.0,0.0,0.0,True
+123,White,Female,69,1.55,33.2,3b,141.74,97.1,Hypertension 2,82.91,Optimal,7.7,Diabetes,13.07,0.0,0.0,0.0,0.0,False
+124,White,Female,67,1.4,37.5,3b,135.78,100.13,Hypertension 1,119.77,Near/Above Optimal,6.23,Healthy,15.35,1.0,0.0,0.0,0.0,False
+125,White,Female,78,1.48,34.1,3b,123.8,73.16,Elevated,101.72,Near/Above Optimal,10.09,Diabetes,13.78,0.0,0.0,0.0,0.0,False
+126,White,Male,74,0.99,73.9,2,153.4,68.79,Hypertension 2,117.68,Near/Above Optimal,6.0,Healthy,13.65,0.0,0.0,0.0,0.0,False
+127,White,Female,55,1.02,56.3,3a,105.64,80.32,Hypertension 1,112.52,Near/Above Optimal,6.14,Healthy,15.39,0.0,0.0,0.0,0.0,True
+128,White,Male,78,0.9,81.6,2,152.49,94.36,Hypertension 2,115.46,Near/Above Optimal,6.87,Healthy,13.76,0.0,0.0,0.0,0.0,False
+129,Black,Male,72,1.06,83.2,2,144.15,78.79,Hypertension 2,88.39,Optimal,10.33,Diabetes,13.47,0.0,0.0,0.0,0.0,True
+130,White,Male,61,1.09,68.8,2,119.06,85.35,Hypertension 1,80.72,Optimal,6.85,Healthy,14.27,0.0,0.0,0.0,0.0,True
+131,White,Male,85,1.05,67.1,2,131.22,76.5,Hypertension 1,146.11,Borderline High,8.32,Diabetes,14.47,1.0,0.0,0.0,0.0,False
+132,Black,Male,62,0.87,107.8,1,129.41,82.9,Hypertension 1,58.06,Optimal,5.7,Healthy,12.83,0.0,0.0,0.0,0.0,False
+133,White,Male,77,1.24,56.5,3a,123.43,79.2,Elevated,125.79,Near/Above Optimal,6.07,Healthy,15.82,0.0,0.0,0.0,0.0,False
+134,White,Female,57,1.5,35.8,3b,138.61,79.5,Hypertension 1,118.17,Near/Above Optimal,10.75,Diabetes,17.44,1.0,2.0,0.0,1.0,False
+135,White,Male,84,0.87,83.6,2,124.1,92.65,Hypertension 2,109.78,Near/Above Optimal,7.25,Diabetes,15.94,0.0,0.0,0.0,0.0,False
+136,Asian,Female,65,1.11,49.3,3a,157.58,96.14,Hypertension 2,96.82,Optimal,7.09,Diabetes,14.73,0.0,0.0,0.0,0.0,False
+137,Hispanic,Male,80,1.27,54.6,3a,125.58,84.55,Hypertension 1,90.06,Optimal,5.53,Healthy,13.09,0.0,0.0,0.0,0.0,False
+138,White,Female,70,1.05,51.8,3a,134.91,86.7,Hypertension 1,88.07,Optimal,7.71,Diabetes,16.43,0.0,0.0,0.0,0.0,False
+139,White,Female,79,1.13,46.4,3a,125.86,65.52,Elevated,87.92,Optimal,6.81,Healthy,14.65,0.0,1.0,0.0,0.0,True
+140,Unknown,Female,75,1.49,34.1,3b,148.96,81.91,Hypertension 1,173.16,High,6.68,Healthy,14.34,0.0,0.0,0.0,0.0,False
+141,White,Male,79,0.98,73.8,2,130.67,66.46,Hypertension 1,113.1,Near/Above Optimal,11.16,Diabetes,13.03,0.0,0.0,0.0,0.0,False
+142,White,Male,84,1.98,32.4,3b,104.48,64.78,Normal BP,62.74,Optimal,6.91,Healthy,13.68,1.0,0.0,0.0,0.0,True
+143,White,Female,67,1.22,44.0,3b,141.99,87.72,Hypertension 1,114.01,Near/Above Optimal,5.22,Healthy,15.65,0.0,0.0,0.0,0.0,False
+144,White,Female,61,1.72,30.1,3b,156.77,79.0,Hypertension 2,111.52,Near/Above Optimal,6.91,Healthy,16.48,0.0,0.0,0.0,0.0,False
+145,White,Male,64,1.39,51.4,3a,151.23,92.29,Hypertension 2,59.52,Optimal,5.7,Healthy,12.1,0.0,1.0,0.0,0.0,True
+146,White,Male,74,1.32,53.0,3a,112.07,76.66,Normal BP,83.67,Optimal,6.55,Healthy,16.86,0.0,0.0,0.0,0.0,True
+147,Black,Female,68,1.15,56.9,3a,143.63,93.32,Hypertension 2,131.51,Borderline High,5.33,Healthy,16.06,0.0,0.0,0.0,0.0,False
+148,White,Female,55,1.36,40.4,3b,133.68,97.7,Hypertension 1,99.15,Optimal,5.87,Healthy,15.26,0.0,0.0,0.0,0.0,False
+149,White,Female,82,1.54,32.3,3b,134.95,74.83,Hypertension 1,82.55,Optimal,6.62,Healthy,13.36,0.0,0.0,0.0,0.0,False
+150,White,Female,64,1.58,32.9,3b,137.07,81.5,Hypertension 1,166.95,High,6.5,Healthy,16.23,0.0,0.0,0.0,0.0,False
+151,White,Male,76,2.02,32.3,3b,147.45,73.39,Hypertension 2,91.7,Optimal,5.39,Healthy,12.93,0.0,0.0,0.0,0.0,False
+152,Black,Female,74,1.94,30.6,3b,130.47,61.49,Hypertension 1,72.2,Optimal,5.97,Healthy,14.47,0.0,0.0,0.0,0.0,False
+153,White,Female,77,1.35,38.0,3b,104.19,59.28,Normal BP,122.31,Near/Above Optimal,7.94,Diabetes,14.71,0.0,0.0,0.0,0.0,False
+154,White,Female,70,1.31,40.1,3b,120.46,68.59,Elevated,96.44,Optimal,9.82,Diabetes,12.85,0.0,0.0,0.0,0.0,True
+155,White,Male,71,1.02,72.0,2,144.13,77.93,Hypertension 2,121.95,Near/Above Optimal,8.3,Diabetes,12.78,0.0,0.0,0.0,0.0,True
+156,White,Female,72,1.34,38.9,3b,138.23,80.38,Hypertension 1,117.26,Near/Above Optimal,9.41,Diabetes,14.55,0.0,0.0,0.0,0.0,False
+157,White,Female,60,1.32,41.1,3b,128.08,78.53,Elevated,105.35,Near/Above Optimal,5.94,Healthy,15.62,0.0,0.0,0.0,0.0,False
+158,Black,Male,72,1.36,62.4,2,125.35,86.73,Hypertension 1,79.04,Optimal,5.05,Healthy,11.45,1.0,0.0,0.0,0.0,False
+159,White,Male,64,0.69,115.4,1,116.94,76.25,Normal BP,59.59,Optimal,7.22,Diabetes,13.37,0.0,0.0,0.0,1.0,True
+160,White,Female,70,1.87,26.6,4,107.0,60.33,Normal BP,87.39,Optimal,4.98,Healthy,13.56,0.0,0.0,0.0,0.0,True
+161,Unknown,Male,67,1.44,48.9,3a,127.36,83.7,Hypertension 1,145.14,Borderline High,6.74,Healthy,12.69,0.0,0.0,0.0,0.0,False
+162,White,Female,70,1.34,39.1,3b,130.37,78.72,Hypertension 1,61.42,Optimal,7.61,Diabetes,14.24,0.0,0.0,1.0,0.0,False
+163,White,Male,61,1.34,54.2,3a,169.55,96.47,Hypertension 2,152.08,Borderline High,15.16,Diabetes,11.78,0.0,0.0,0.0,0.0,True
+164,White,Male,84,1.3,52.6,3a,151.52,96.29,Hypertension 2,91.87,Optimal,8.38,Diabetes,12.5,0.0,0.0,0.0,0.0,False
+165,White,Male,76,0.88,84.2,2,154.88,95.64,Hypertension 2,72.88,Optimal,6.34,Healthy,13.06,0.0,0.0,0.0,0.0,True
+166,Unknown,Male,64,1.32,54.6,3a,138.9,70.64,Hypertension 1,63.6,Optimal,5.46,Healthy,11.36,0.0,0.0,0.0,1.0,False
+167,White,Female,73,1.24,42.4,3b,117.77,73.57,Normal BP,52.47,Optimal,6.37,Healthy,13.77,0.0,0.0,0.0,0.0,False
+168,White,Female,84,1.12,46.3,3a,145.1,98.2,Hypertension 2,90.12,Optimal,6.99,Healthy,14.23,0.0,0.0,0.0,0.0,False
+169,White,Female,76,1.4,36.6,3b,125.64,81.63,Hypertension 1,96.2,Optimal,5.95,Healthy,14.1,0.0,0.0,0.0,0.0,False
+170,White,Female,84,1.14,45.4,3a,150.17,76.2,Hypertension 2,42.12,Optimal,6.61,Healthy,13.64,1.0,0.0,1.0,0.0,False
+171,White,Male,64,1.28,56.6,3a,113.15,74.31,Normal BP,87.03,Optimal,5.18,Healthy,11.77,0.0,0.0,0.0,0.0,False
+172,White,Male,77,1.1,64.9,2,121.72,82.06,Hypertension 1,78.65,Optimal,7.43,Diabetes,11.32,0.0,0.0,0.0,0.0,False
+173,White,Male,70,0.89,84.5,2,134.24,75.25,Hypertension 1,89.6,Optimal,5.19,Healthy,13.7,0.0,0.0,0.0,0.0,False
+174,White,Female,80,1.66,29.7,4,132.14,91.11,Hypertension 1,64.54,Optimal,8.14,Diabetes,15.04,0.0,0.0,0.0,0.0,False
+175,White,Male,73,1.39,50.1,3a,113.3,83.23,Hypertension 1,104.87,Near/Above Optimal,5.79,Healthy,13.33,0.0,0.0,0.0,0.0,False
+176,White,Male,71,0.83,91.3,1,132.96,84.18,Hypertension 1,152.59,Borderline High,6.03,Healthy,13.92,0.0,0.0,0.0,0.0,True
+177,White,Male,63,1.05,71.3,2,143.21,81.64,Hypertension 1,119.88,Near/Above Optimal,7.02,Diabetes,14.39,0.0,0.0,0.0,0.0,True
+178,White,Female,81,1.13,46.2,3a,132.56,71.08,Hypertension 1,68.84,Optimal,5.94,Healthy,14.23,0.0,0.0,0.0,0.0,True
+179,White,Male,82,1.02,69.9,2,115.83,78.25,Normal BP,102.5,Near/Above Optimal,8.66,Diabetes,14.39,0.0,0.0,0.0,0.0,False
+180,White,Male,68,0.92,81.8,2,128.97,89.68,Hypertension 1,120.13,Near/Above Optimal,6.01,Healthy,11.07,0.0,0.0,0.0,0.0,False
+181,Asian,Female,62,1.39,38.4,3b,111.71,81.1,Hypertension 1,127.09,Near/Above Optimal,6.34,Healthy,13.37,0.0,0.0,0.0,0.0,False
+182,White,Male,67,1.29,55.6,3a,145.11,93.0,Hypertension 2,80.45,Optimal,7.23,Diabetes,13.3,0.0,0.0,1.0,0.0,True
+183,White,Female,56,1.32,41.6,3b,139.86,87.48,Hypertension 1,131.53,Borderline High,5.66,Healthy,15.17,0.0,0.0,0.0,0.0,True
+184,White,Female,68,1.46,35.6,3b,118.45,66.71,Normal BP,82.09,Optimal,8.0,Diabetes,13.82,0.0,0.0,0.0,0.0,False
+185,Unknown,Female,69,1.64,31.1,3b,145.82,95.8,Hypertension 2,94.01,Optimal,8.17,Diabetes,13.9,0.0,0.0,0.0,0.0,False
+186,White,Female,71,1.2,44.3,3b,159.9,79.19,Hypertension 2,135.82,Borderline High,6.05,Healthy,14.63,0.0,0.0,0.0,0.0,False
+187,White,Male,73,0.94,78.7,2,133.25,85.44,Hypertension 1,84.54,Optimal,6.73,Healthy,14.15,0.0,0.0,0.0,0.0,False
+188,White,Female,75,1.19,44.2,3b,136.45,79.41,Hypertension 1,111.67,Near/Above Optimal,8.37,Diabetes,13.73,0.0,0.0,0.0,0.0,False
+189,White,Female,64,1.38,38.5,3b,147.82,77.48,Hypertension 2,54.76,Optimal,7.93,Diabetes,13.31,0.0,0.0,0.0,0.0,True
+190,Black,Male,62,1.13,79.7,2,132.34,74.83,Hypertension 1,115.03,Near/Above Optimal,5.02,Healthy,11.46,0.0,0.0,0.0,0.0,False
+191,White,Male,56,0.82,97.2,1,146.1,82.96,Hypertension 1,76.93,Optimal,5.12,Healthy,16.36,0.0,0.0,0.0,0.0,False
+192,White,Female,64,1.5,35.0,3b,131.51,79.11,Hypertension 1,61.69,Optimal,5.74,Healthy,14.63,1.0,0.0,0.0,0.0,False
+193,White,Female,64,1.55,33.7,3b,137.24,84.41,Hypertension 1,99.47,Optimal,5.33,Healthy,15.55,0.0,0.0,0.0,0.0,False
+194,Unknown,Male,67,1.18,61.6,2,139.88,76.35,Hypertension 1,68.87,Optimal,4.85,Healthy,13.51,0.0,0.0,0.0,0.0,True
+195,White,Female,81,1.27,40.4,3b,128.84,88.56,Hypertension 1,161.93,High,5.77,Healthy,14.07,0.0,0.0,0.0,0.0,False
+196,White,Female,74,1.63,30.8,3b,133.06,78.34,Hypertension 1,63.51,Optimal,8.44,Diabetes,11.98,0.0,0.0,0.0,0.0,False
+197,Black,Male,69,1.56,53.8,3a,101.73,62.99,Normal BP,89.97,Optimal,4.72,Healthy,11.56,0.0,0.0,0.0,0.0,True
+198,White,Female,65,1.57,33.1,3b,115.22,97.1,Hypertension 2,119.51,Near/Above Optimal,6.9,Healthy,14.95,1.0,0.0,0.0,0.0,False
+199,White,Female,73,1.52,33.5,3b,102.35,67.2,Normal BP,58.54,Optimal,14.01,Diabetes,15.44,0.0,0.0,0.0,0.0,False
+200,White,Female,74,1.59,31.7,3b,128.23,79.39,Elevated,105.09,Near/Above Optimal,7.1,Diabetes,13.02,0.0,0.0,0.0,0.0,True
+201,White,Male,83,1.29,53.2,3a,147.33,90.33,Hypertension 2,86.37,Optimal,6.32,Healthy,14.13,0.0,0.0,0.0,0.0,True
+202,White,Female,61,0.91,62.8,2,145.38,85.04,Hypertension 1,133.08,Borderline High,7.62,Diabetes,15.06,0.0,0.0,0.0,0.0,False
+203,White,Female,83,1.77,27.4,4,110.33,62.61,Normal BP,86.92,Optimal,8.42,Diabetes,16.57,0.0,0.0,0.0,0.0,False
+204,White,Female,84,1.58,31.2,3b,127.15,74.84,Elevated,81.68,Optimal,8.06,Diabetes,13.07,0.0,0.0,0.0,0.0,False
+205,White,Female,80,1.3,39.4,3b,133.97,80.09,Hypertension 1,124.13,Near/Above Optimal,6.51,Healthy,15.44,0.0,0.0,0.0,0.0,False
+206,White,Male,81,1.54,43.6,3b,134.71,85.1,Hypertension 1,61.95,Optimal,6.63,Healthy,10.61,0.0,0.0,0.0,0.0,False
+207,Unknown,Male,66,0.9,84.4,2,116.38,64.53,Normal BP,83.44,Optimal,4.48,Healthy,12.76,0.0,0.0,0.0,0.0,True
+208,White,Male,47,1.13,69.6,2,117.62,58.99,Normal BP,57.27,Optimal,5.66,Healthy,11.67,0.0,0.0,1.0,0.0,True
+209,White,Male,68,1.43,49.2,3a,129.36,70.52,Elevated,105.95,Near/Above Optimal,7.75,Diabetes,13.61,0.0,0.0,0.0,0.0,True
+210,White,Male,56,0.78,103.0,1,120.64,68.65,Elevated,73.47,Optimal,6.39,Healthy,15.6,1.0,0.0,0.0,0.0,True
+211,White,Female,77,1.19,44.0,3b,145.45,83.87,Hypertension 1,111.18,Near/Above Optimal,6.02,Healthy,15.24,0.0,0.0,0.0,0.0,False
+212,Unknown,Female,86,1.26,40.3,3b,132.6,82.81,Hypertension 1,86.43,Optimal,5.47,Healthy,15.28,0.0,0.0,0.0,0.0,False
+213,White,Female,78,1.49,33.8,3b,135.86,86.5,Hypertension 1,115.35,Near/Above Optimal,7.93,Diabetes,15.74,0.0,0.0,0.0,0.0,False
+214,White,Female,61,1.49,35.6,3b,133.46,93.35,Hypertension 1,134.5,Borderline High,4.74,Healthy,16.57,0.0,0.0,0.0,0.0,False
+215,White,Female,74,1.37,37.7,3b,157.16,85.59,Hypertension 1,77.69,Optimal,6.17,Healthy,14.59,0.0,0.0,0.0,0.0,False
+216,White,Female,69,1.6,32.0,3b,133.42,81.34,Hypertension 1,59.26,Optimal,6.22,Healthy,15.52,0.0,0.0,0.0,0.0,False
+217,White,Female,76,0.92,59.4,3a,143.61,73.06,Hypertension 2,122.88,Near/Above Optimal,6.52,Healthy,13.54,0.0,0.0,0.0,0.0,False
+218,Hispanic,Female,58,1.21,45.7,3a,132.35,88.64,Hypertension 1,92.37,Optimal,5.06,Healthy,15.12,1.0,0.0,0.0,1.0,True
+219,White,Female,69,1.11,48.7,3a,147.99,80.61,Hypertension 1,93.0,Optimal,5.14,Healthy,13.78,1.0,1.0,0.0,1.0,False
+220,White,Male,68,0.77,100.5,1,124.59,84.22,Hypertension 1,151.7,Borderline High,6.7,Healthy,13.65,1.0,1.0,0.0,0.0,False
+221,White,Male,57,1.22,61.2,2,110.54,83.05,Hypertension 1,109.08,Near/Above Optimal,6.46,Healthy,12.39,0.0,0.0,0.0,0.0,True
+222,Asian,Male,63,0.77,102.0,1,127.07,77.9,Elevated,48.53,Optimal,7.43,Diabetes,12.74,0.0,0.0,0.0,0.0,True
+223,White,Male,63,1.28,56.8,3a,132.1,83.02,Hypertension 1,84.84,Optimal,6.1,Healthy,11.77,0.0,0.0,0.0,0.0,False
+224,White,Female,69,1.72,29.4,4,143.95,99.9,Hypertension 2,103.58,Near/Above Optimal,5.24,Healthy,15.72,0.0,0.0,0.0,0.0,False
+225,White,Male,79,1.24,56.2,3a,128.43,68.68,Elevated,62.43,Optimal,5.47,Healthy,15.41,0.0,0.0,0.0,0.0,False
+226,Black,Female,76,0.89,74.7,2,143.9,76.06,Hypertension 2,84.67,Optimal,6.01,Healthy,14.29,0.0,0.0,0.0,0.0,False
+227,White,Female,73,1.46,35.1,3b,152.43,72.4,Hypertension 2,56.31,Optimal,7.53,Diabetes,14.2,1.0,1.0,0.0,1.0,False
+228,White,Male,84,1.11,63.1,2,121.18,85.79,Hypertension 1,111.21,Near/Above Optimal,6.9,Healthy,12.67,0.0,0.0,0.0,0.0,True
+229,Asian,Female,57,1.03,55.2,3a,136.67,98.48,Hypertension 1,73.2,Optimal,6.15,Healthy,15.27,1.0,0.0,0.0,0.0,False
+230,White,Female,74,1.29,40.4,3b,149.69,94.78,Hypertension 2,73.15,Optimal,10.04,Diabetes,13.09,1.0,0.0,1.0,0.0,False
+231,Unknown,Male,80,1.16,60.6,2,124.26,83.17,Hypertension 1,49.46,Optimal,6.75,Healthy,15.53,0.0,0.0,1.0,0.0,True
+232,White,Female,80,1.37,37.1,3b,121.26,74.14,Elevated,95.38,Optimal,6.14,Healthy,14.77,0.0,0.0,0.0,0.0,False
+233,Black,Male,65,1.34,64.8,2,130.96,81.85,Hypertension 1,85.38,Optimal,6.86,Healthy,10.48,0.0,0.0,0.0,0.0,False
+234,White,Male,84,1.31,52.1,3a,126.61,65.48,Elevated,57.05,Optimal,6.87,Healthy,13.7,0.0,0.0,1.0,1.0,True
+235,White,Female,74,1.51,33.7,3b,145.15,70.01,Hypertension 2,92.35,Optimal,6.14,Healthy,16.23,0.0,0.0,0.0,0.0,False
+236,White,Male,83,1.61,41.2,3b,140.19,86.75,Hypertension 1,65.57,Optimal,5.27,Healthy,11.7,0.0,0.0,0.0,0.0,False
+237,White,Male,74,1.15,62.2,2,151.23,93.33,Hypertension 2,90.06,Optimal,6.09,Healthy,13.24,0.0,0.0,0.0,1.0,True
+238,White,Female,55,1.3,42.5,3b,113.13,84.92,Hypertension 1,78.04,Optimal,8.48,Diabetes,16.21,0.0,0.0,0.0,0.0,False
+239,White,Female,54,1.68,31.8,3b,115.9,79.37,Normal BP,68.82,Optimal,4.25,Healthy,15.92,0.0,0.0,0.0,0.0,False
+240,White,Female,68,1.64,31.2,3b,141.24,80.89,Hypertension 1,96.79,Optimal,7.29,Diabetes,15.4,0.0,0.0,0.0,0.0,False
+241,White,Female,73,1.05,51.4,3a,128.04,64.91,Elevated,53.32,Optimal,7.85,Diabetes,13.79,0.0,0.0,0.0,0.0,False
+242,White,Male,69,0.81,94.5,1,151.93,80.76,Hypertension 1,118.0,Near/Above Optimal,5.98,Healthy,14.84,0.0,0.0,0.0,0.0,False
+243,Unknown,Female,46,0.92,65.7,2,115.81,80.89,Hypertension 1,116.7,Near/Above Optimal,6.23,Healthy,15.55,0.0,0.0,0.0,0.0,True
+244,Asian,Female,60,1.46,36.5,3b,138.01,82.54,Hypertension 1,142.03,Borderline High,10.37,Diabetes,14.63,0.0,0.0,0.0,0.0,False
+245,White,Female,61,1.31,41.3,3b,111.41,79.05,Normal BP,105.22,Near/Above Optimal,8.28,Diabetes,15.41,0.0,0.0,0.0,0.0,True
+246,White,Female,72,1.21,43.7,3b,111.74,78.38,Normal BP,99.95,Optimal,5.16,Healthy,17.37,0.0,0.0,0.0,0.0,False
+247,Black,Male,67,1.33,65.0,2,140.48,76.77,Hypertension 2,104.37,Near/Above Optimal,5.64,Healthy,13.22,0.0,0.0,0.0,0.0,False
+248,Black,Female,59,1.05,65.0,2,122.06,83.63,Hypertension 1,108.31,Near/Above Optimal,4.65,Healthy,14.06,0.0,0.0,0.0,0.0,False
+249,Unknown,Female,47,1.64,33.6,3b,130.43,91.07,Hypertension 1,80.75,Optimal,7.34,Diabetes,16.59,0.0,0.0,0.0,0.0,False
+250,White,Female,79,1.46,34.6,3b,142.12,92.55,Hypertension 2,64.37,Optimal,5.3,Healthy,11.8,2.0,0.0,0.0,0.0,False
+251,White,Male,70,1.54,44.9,3b,155.33,86.28,Hypertension 1,119.13,Near/Above Optimal,6.65,Healthy,10.85,0.0,0.0,0.0,0.0,True
+252,Asian,Female,72,1.42,36.4,3b,126.03,68.62,Elevated,86.41,Optimal,6.16,Healthy,14.3,0.0,0.0,0.0,0.0,False
+253,White,Male,81,1.3,53.0,3a,145.27,98.52,Hypertension 2,95.18,Optimal,7.58,Diabetes,14.54,0.0,0.0,0.0,0.0,False
+254,White,Male,58,0.89,87.8,2,140.52,91.67,Hypertension 2,66.07,Optimal,4.97,Healthy,13.12,0.0,0.0,0.0,0.0,False
+255,White,Female,74,1.35,38.3,3b,145.92,81.99,Hypertension 1,77.79,Optimal,4.92,Healthy,14.71,0.0,0.0,0.0,0.0,False
+256,White,Male,66,0.7,112.8,1,132.78,80.1,Hypertension 1,58.23,Optimal,5.93,Healthy,12.39,0.0,0.0,0.0,0.0,True
+257,White,Male,74,1.23,57.5,3a,117.87,55.16,Normal BP,87.5,Optimal,6.74,Healthy,12.67,0.0,0.0,0.0,1.0,True
+258,Unknown,Female,57,1.41,38.4,3b,153.74,93.45,Hypertension 2,111.63,Near/Above Optimal,6.35,Healthy,15.92,0.0,0.0,0.0,0.0,False
+259,White,Male,66,1.27,56.7,3a,114.78,76.87,Normal BP,82.61,Optimal,5.96,Healthy,12.89,0.0,0.0,0.0,0.0,True
+260,White,Female,79,1.08,48.9,3a,138.45,77.07,Hypertension 1,81.85,Optimal,7.45,Diabetes,13.77,1.0,1.0,0.0,1.0,True
+261,Asian,Female,80,2.05,23.3,4,144.86,73.36,Hypertension 2,77.0,Optimal,6.4,Healthy,12.13,0.0,0.0,0.0,0.0,True
+262,White,Female,75,1.38,37.3,3b,118.26,76.46,Normal BP,74.33,Optimal,4.62,Healthy,16.44,0.0,0.0,0.0,0.0,False
+263,White,Female,73,1.5,34.0,3b,156.69,82.51,Hypertension 1,53.6,Optimal,6.86,Healthy,14.94,0.0,0.0,0.0,0.0,True
+264,White,Female,71,1.54,33.2,3b,148.3,89.17,Hypertension 1,76.36,Optimal,5.76,Healthy,13.87,0.0,0.0,0.0,0.0,False
+265,Unknown,Female,85,1.24,41.1,3b,148.35,78.29,Hypertension 2,65.06,Optimal,7.78,Diabetes,15.52,0.0,0.0,0.0,0.0,False
+266,Asian,Female,48,1.11,52.5,3a,133.53,71.03,Hypertension 1,95.19,Optimal,5.55,Healthy,13.19,0.0,0.0,0.0,0.0,False
+267,White,Male,71,0.97,76.3,2,132.26,73.05,Hypertension 1,82.5,Optimal,7.11,Diabetes,12.85,0.0,0.0,0.0,0.0,True
+268,White,Female,69,1.79,28.1,4,128.9,76.01,Elevated,62.62,Optimal,5.8,Healthy,13.84,0.0,0.0,0.0,0.0,False
+269,White,Female,72,2.6,18.1,4,121.57,74.04,Elevated,102.01,Near/Above Optimal,6.12,Healthy,11.15,0.0,0.0,0.0,0.0,True
+270,White,Female,77,1.44,35.3,3b,158.76,84.57,Hypertension 1,80.57,Optimal,6.24,Healthy,13.51,0.0,0.0,0.0,0.0,False
+271,White,Male,55,1.24,60.5,2,110.27,69.43,Normal BP,49.03,Optimal,7.1,Diabetes,12.16,0.0,0.0,0.0,0.0,True
+272,Asian,Male,72,0.96,77.0,2,140.94,98.16,Hypertension 2,67.18,Optimal,6.82,Healthy,15.48,0.0,0.0,0.0,0.0,False
+273,White,Male,68,1.11,65.9,2,161.36,76.85,Hypertension 2,110.28,Near/Above Optimal,5.42,Healthy,14.28,1.0,0.0,1.0,1.0,False
+274,Black,Female,68,1.7,36.2,3b,119.92,68.45,Normal BP,90.18,Optimal,5.52,Healthy,14.98,0.0,0.0,0.0,0.0,False
+275,White,Female,84,1.59,30.9,3b,136.89,70.53,Hypertension 1,62.65,Optimal,6.31,Healthy,15.35,0.0,0.0,0.0,0.0,False
+276,White,Male,57,0.95,81.7,2,121.46,76.03,Elevated,106.41,Near/Above Optimal,4.86,Healthy,12.45,0.0,0.0,0.0,0.0,False
+277,White,Female,81,1.21,42.7,3b,179.45,71.64,Hypertension 2,112.81,Near/Above Optimal,6.56,Healthy,14.08,0.0,0.0,0.0,0.0,False
+278,White,Female,78,1.54,32.6,3b,122.28,75.81,Elevated,77.45,Optimal,6.81,Healthy,13.42,0.0,0.0,0.0,0.0,False
+279,Black,Female,64,1.05,63.9,2,147.05,88.65,Hypertension 1,58.95,Optimal,7.36,Diabetes,13.61,0.0,0.0,0.0,0.0,False
+280,Unknown,Female,84,1.6,30.7,3b,122.83,68.48,Elevated,60.0,Optimal,7.24,Diabetes,11.27,0.0,1.0,0.0,0.0,True
+281,Black,Male,51,0.89,109.2,1,139.86,83.78,Hypertension 1,92.14,Optimal,4.93,Healthy,13.3,0.0,0.0,0.0,0.0,True
+282,White,Male,74,1.19,59.8,3a,125.59,62.03,Elevated,68.88,Optimal,6.09,Healthy,14.49,0.0,0.0,0.0,0.0,False
+283,White,Female,67,1.3,40.9,3b,128.37,94.35,Hypertension 2,123.59,Near/Above Optimal,5.78,Healthy,14.97,0.0,0.0,0.0,0.0,False
+284,White,Female,71,1.74,28.8,4,123.86,83.57,Hypertension 1,78.43,Optimal,5.87,Healthy,14.75,0.0,0.0,0.0,0.0,True
+285,White,Male,81,0.95,76.1,2,130.44,82.52,Hypertension 1,65.95,Optimal,8.9,Diabetes,13.83,0.0,0.0,0.0,0.0,False
+286,White,Male,85,1.75,37.2,3b,122.95,71.01,Elevated,64.09,Optimal,4.51,Healthy,10.69,0.0,0.0,0.0,0.0,False
+287,White,Female,72,0.99,55.1,3a,145.71,72.79,Hypertension 2,83.3,Optimal,6.44,Healthy,12.03,0.0,0.0,0.0,0.0,False
+288,White,Male,74,1.0,73.0,2,127.47,68.68,Elevated,79.13,Optimal,4.65,Healthy,12.8,0.0,0.0,0.0,0.0,True
+289,White,Female,66,1.76,28.9,4,142.42,92.23,Hypertension 2,140.96,Borderline High,3.97,Healthy,14.05,0.0,0.0,0.0,0.0,False
+290,White,Male,70,0.68,115.3,1,159.87,71.92,Hypertension 2,72.58,Optimal,7.77,Diabetes,15.55,0.0,0.0,0.0,0.0,False
+291,White,Female,60,1.3,41.8,3b,147.03,89.23,Hypertension 1,37.76,Optimal,9.27,Diabetes,14.64,1.0,1.0,1.0,1.0,False
+292,White,Female,73,1.1,48.7,3a,144.78,67.84,Hypertension 2,78.6,Optimal,6.99,Healthy,15.35,0.0,1.0,0.0,0.0,True
+293,White,Male,72,2.66,23.8,4,140.53,76.19,Hypertension 2,74.19,Optimal,9.0,Diabetes,10.46,0.0,0.0,0.0,0.0,False
+294,Black,Male,72,1.47,57.1,3a,133.86,77.92,Hypertension 1,69.58,Optimal,4.7,Healthy,11.74,0.0,0.0,0.0,0.0,False
+295,White,Female,79,1.92,25.2,4,151.2,95.69,Hypertension 2,111.73,Near/Above Optimal,6.49,Healthy,13.67,0.0,0.0,0.0,0.0,True
+296,White,Female,66,1.86,27.1,4,139.66,79.72,Hypertension 1,100.43,Near/Above Optimal,7.17,Diabetes,15.15,0.0,1.0,0.0,0.0,False
+297,Unknown,Male,80,1.25,55.6,3a,145.56,66.89,Hypertension 2,135.02,Borderline High,8.3,Diabetes,13.97,0.0,0.0,0.0,0.0,True
+298,Asian,Female,72,1.03,52.7,3a,139.58,84.33,Hypertension 1,79.06,Optimal,6.42,Healthy,15.26,0.0,0.0,0.0,0.0,False
+299,Asian,Male,84,1.12,62.5,2,103.95,78.32,Normal BP,66.45,Optimal,5.6,Healthy,14.76,0.0,0.0,0.0,0.0,False
